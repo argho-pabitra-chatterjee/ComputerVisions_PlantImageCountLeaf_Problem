@@ -1,2 +1,2 @@
 # ComputerVisions_PlantImageCountLeaf_Problem
-Count number of leaves in plat image - Computer Visions Problem Object detection 
+Find how many leaves are visible in the plant image - Computer Visions Problem Object detection 
